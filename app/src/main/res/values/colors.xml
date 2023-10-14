@@ -2,4 +2,6 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="FeildBackground">#ececec</color>
+    <color name="hint">#737373</color>
 </resources>

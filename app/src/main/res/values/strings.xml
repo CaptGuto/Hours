@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Hourly</string>
+    <string name="wellcom">Hello There, this is skill.up  The best way to build
+        your skill in 10,000 Hours </string>
+    <string name="title_activity_main_page">MainPage</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
 </resources>
